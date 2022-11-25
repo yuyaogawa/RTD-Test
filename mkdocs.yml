@@ -1,0 +1,8 @@
+site_name: Lorem ipsum
+#site_url:
+markdown_extensions:
+  - admonition
+theme:
+  name: 'readthedocs'
+nav:
+- Index: index.md
